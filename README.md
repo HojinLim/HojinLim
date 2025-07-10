@@ -1,10 +1,9 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HOJIN's%20GITHUB&fontSize=90)
+
 
 <p align="left">
-안녕하세요 👋
 프론트엔드를 중심으로 한 풀스택 개발자 지망생입니다.<br/>
-React, Node.js, AWS를 활용한 웹 서비스 개발에 익숙하며, 사용자 경험과 코드 품질을 중요하게 생각합니다.
+React, Vue, Node.js, AWS를 활용한 웹 서비스 개발에 익숙하며, 사용자 경험과 코드 품질을 중요하게 생각합니다.
 </p>
 
 ---
@@ -13,6 +12,7 @@ React, Node.js, AWS를 활용한 웹 서비스 개발에 익숙하며, 사용자
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
