@@ -1,8 +1,7 @@
-### Hi there 👋
 
-<h1 align="center">Hi 👋 I'm [Hojin Lim]</h1>
 
-<p align="center">
+
+<p align="left">
 프론트엔드를 중심으로 한 풀스택 개발자 지망생입니다.<br/>
 React, Node.js, AWS를 활용한 웹 서비스 개발에 익숙하며, 사용자 경험과 코드 품질을 중요하게 생각합니다.
 </p>
@@ -47,8 +46,8 @@ React, Node.js, AWS를 활용한 웹 서비스 개발에 익숙하며, 사용자
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-id&layout=compact&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HojinLim&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HojinLim&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
 ---
@@ -56,6 +55,3 @@ React, Node.js, AWS를 활용한 웹 서비스 개발에 익숙하며, 사용자
 <p align="center">
   함께 성장하는 개발자가 되겠습니다. 감사합니다! 🙏
 </p>
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
