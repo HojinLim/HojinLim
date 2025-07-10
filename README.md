@@ -1,5 +1,5 @@
 
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HOJIN's%20GITHUB&fontSize=90)
 
 <p align="left">
 프론트엔드를 중심으로 한 풀스택 개발자 지망생입니다.<br/>
