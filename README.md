@@ -47,7 +47,7 @@ React, Vue, Node.js, AWS를 활용한 웹 서비스 개발에 익숙하며, 사�
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HojinLim&show_icons=true&theme=tokyonight&cache_bust=1" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hojinlim&show_icons=true&theme=tokyonight&cache_bust=1" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HojinLim&layout=compact&theme=tokyonight&cache_bust=1" height="180px"/>
 </p>
 
