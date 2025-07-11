@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HOJIN's%20GITHUB&fontSize=90)
 
 <p align="left">
-안녕하세요 👋
+안녕하세요 👋 <br/>
 프론트엔드를 중심으로 한 풀스택 개발자 지망생입니다.<br/>
 React, Vue, Node.js, AWS를 활용한 웹 서비스 개발에 익숙하며, 사용자 경험과 코드 품질을 중요하게 생각합니다.
 </p>
